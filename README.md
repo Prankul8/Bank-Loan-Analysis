@@ -45,7 +45,7 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 
 ### Adding Images
 
-You can find images of the dashboards in the `Output` directory of this repository.
+You can find images of the dashboards in the `Output` directory of this repository
 
 #### Summary Dashboard
 ![Summary Dashboard](/Output/Summary.png)
